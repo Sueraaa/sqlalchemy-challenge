@@ -190,4 +190,9 @@ config/local.cfg
 secret_key.txt
 credentials.json
 
-venv/
+.virtual_documents/
+
+.vscode/
+*.log
+*.tmp
+*.bak
