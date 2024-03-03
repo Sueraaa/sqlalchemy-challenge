@@ -189,3 +189,5 @@ config/local.cfg
 # Ignore sensitive information (replace with your actual file names)
 secret_key.txt
 credentials.json
+
+venv/
